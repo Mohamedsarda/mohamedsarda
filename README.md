@@ -3,3 +3,4 @@
 <p>
 <img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedsarda&hide_border=true&theme=dark" />
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsarda&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamedsarda" /></p>
